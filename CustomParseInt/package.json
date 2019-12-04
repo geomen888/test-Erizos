@@ -1,0 +1,14 @@
+{
+  "name": "CustomParseInt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Geyman E.",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+
+    },
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
