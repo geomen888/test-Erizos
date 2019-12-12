@@ -1,3 +1,3 @@
 const { myParseInt } = require('./customParseInt');
 
-console.info('output:', myParseInt(' 1234') + 66);
+console.info('output:', myParseInt('10') + 66);
